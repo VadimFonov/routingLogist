@@ -1,0 +1,235 @@
+{
+    "bbox": [
+        44.489148,
+        48.75602,
+        44.519363,
+        48.770687
+    ],
+    "metadata": {
+        "attribution": "openrouteservice.org | OpenStreetMap contributors",
+        "engine": {
+            "build_date": "2022-10-21T14:34:31Z",
+            "graph_date": "2022-11-17T23:46:05Z",
+            "version": "6.8.0"
+        },
+        "query": {
+            "coordinates": [
+                [
+                    44.48911667,
+                    48.75606537
+                ],
+                [
+                    44.48911667,
+                    48.75606537
+                ],
+                [
+                    44.51873016,
+                    48.76849365
+                ],
+                [
+                    44.5189743,
+                    48.76894379
+                ],
+                [
+                    44.51913452,
+                    48.76939011
+                ],
+                [
+                    44.51932144,
+                    48.77005005
+                ],
+                [
+                    44.51937485,
+                    48.7706871
+                ]
+            ],
+            "format": "json",
+            "profile": "driving-car"
+        },
+        "service": "routing",
+        "timestamp": 1669984493944
+    },
+    "routes": [
+        {
+            "bbox": [
+                44.489148,
+                48.75602,
+                44.519363,
+                48.770687
+            ],
+            "geometry": "ctqhHehpnGm@yCeAaFsDwQeJgd@sMmn@gE{Sy@_EiA}Dk@aBo@yAy@wAs@kA{BmCiMyM}AwAqB{Ao@_@GEqAi@MGq@SYGe@K{@Ka@AwBKG?",
+            "segments": [
+                {
+                    "distance": 0.0,
+                    "duration": 0.0,
+                    "steps": [
+                        {
+                            "distance": 0.0,
+                            "duration": 0.0,
+                            "instruction": "Head east",
+                            "name": "-",
+                            "type": 11,
+                            "way_points": [
+                                0,
+                                0
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "distance": 2645.4,
+                    "duration": 178.7,
+                    "steps": [
+                        {
+                            "distance": 2645.4,
+                            "duration": 178.7,
+                            "instruction": "Head northeast on 3-\u044f \u041f\u0440\u043e\u0434\u043e\u043b\u044c\u043d\u0430\u044f \u043c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u043b\u044c, 18\u0410-5",
+                            "name": "3-\u044f \u041f\u0440\u043e\u0434\u043e\u043b\u044c\u043d\u0430\u044f \u043c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u043b\u044c, 18\u0410-5",
+                            "type": 11,
+                            "way_points": [
+                                0,
+                                17
+                            ]
+                        },
+                        {
+                            "distance": 0.0,
+                            "duration": 0.0,
+                            "instruction": "Arrive at 3-\u044f \u041f\u0440\u043e\u0434\u043e\u043b\u044c\u043d\u0430\u044f \u043c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u043b\u044c, 18\u0410-5, on the left",
+                            "name": "-",
+                            "type": 10,
+                            "way_points": [
+                                17,
+                                17
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "distance": 53.3,
+                    "duration": 3.8,
+                    "steps": [
+                        {
+                            "distance": 53.3,
+                            "duration": 3.8,
+                            "instruction": "Head northeast on 3-\u044f \u041f\u0440\u043e\u0434\u043e\u043b\u044c\u043d\u0430\u044f \u043c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u043b\u044c, 18\u0410-5",
+                            "name": "3-\u044f \u041f\u0440\u043e\u0434\u043e\u043b\u044c\u043d\u0430\u044f \u043c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u043b\u044c, 18\u0410-5",
+                            "type": 11,
+                            "way_points": [
+                                17,
+                                19
+                            ]
+                        },
+                        {
+                            "distance": 0.0,
+                            "duration": 0.0,
+                            "instruction": "Arrive at 3-\u044f \u041f\u0440\u043e\u0434\u043e\u043b\u044c\u043d\u0430\u044f \u043c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u043b\u044c, 18\u0410-5, on the left",
+                            "name": "-",
+                            "type": 10,
+                            "way_points": [
+                                19,
+                                19
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "distance": 51.3,
+                    "duration": 3.7,
+                    "steps": [
+                        {
+                            "distance": 51.3,
+                            "duration": 3.7,
+                            "instruction": "Head north on 3-\u044f \u041f\u0440\u043e\u0434\u043e\u043b\u044c\u043d\u0430\u044f \u043c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u043b\u044c, 18\u0410-5",
+                            "name": "3-\u044f \u041f\u0440\u043e\u0434\u043e\u043b\u044c\u043d\u0430\u044f \u043c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u043b\u044c, 18\u0410-5",
+                            "type": 11,
+                            "way_points": [
+                                19,
+                                22
+                            ]
+                        },
+                        {
+                            "distance": 0.0,
+                            "duration": 0.0,
+                            "instruction": "Arrive at 3-\u044f \u041f\u0440\u043e\u0434\u043e\u043b\u044c\u043d\u0430\u044f \u043c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u043b\u044c, 18\u0410-5, on the left",
+                            "name": "-",
+                            "type": 10,
+                            "way_points": [
+                                22,
+                                22
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "distance": 74.8,
+                    "duration": 5.4,
+                    "steps": [
+                        {
+                            "distance": 74.8,
+                            "duration": 5.4,
+                            "instruction": "Head north on 3-\u044f \u041f\u0440\u043e\u0434\u043e\u043b\u044c\u043d\u0430\u044f \u043c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u043b\u044c, 18\u0410-5",
+                            "name": "3-\u044f \u041f\u0440\u043e\u0434\u043e\u043b\u044c\u043d\u0430\u044f \u043c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u043b\u044c, 18\u0410-5",
+                            "type": 11,
+                            "way_points": [
+                                22,
+                                25
+                            ]
+                        },
+                        {
+                            "distance": 0.0,
+                            "duration": 0.0,
+                            "instruction": "Arrive at 3-\u044f \u041f\u0440\u043e\u0434\u043e\u043b\u044c\u043d\u0430\u044f \u043c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u043b\u044c, 18\u0410-5, on the right",
+                            "name": "-",
+                            "type": 10,
+                            "way_points": [
+                                25,
+                                25
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "distance": 72.7,
+                    "duration": 5.2,
+                    "steps": [
+                        {
+                            "distance": 72.7,
+                            "duration": 5.2,
+                            "instruction": "Head north on 3-\u044f \u041f\u0440\u043e\u0434\u043e\u043b\u044c\u043d\u0430\u044f \u043c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u043b\u044c, 18\u0410-5",
+                            "name": "3-\u044f \u041f\u0440\u043e\u0434\u043e\u043b\u044c\u043d\u0430\u044f \u043c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u043b\u044c, 18\u0410-5",
+                            "type": 11,
+                            "way_points": [
+                                25,
+                                27
+                            ]
+                        },
+                        {
+                            "distance": 0.0,
+                            "duration": 0.0,
+                            "instruction": "Arrive at 3-\u044f \u041f\u0440\u043e\u0434\u043e\u043b\u044c\u043d\u0430\u044f \u043c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u043b\u044c, 18\u0410-5, straight ahead",
+                            "name": "-",
+                            "type": 10,
+                            "way_points": [
+                                27,
+                                27
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "summary": {
+                "distance": 2897.5,
+                "duration": 196.79999999999998
+            },
+            "way_points": [
+                0,
+                0,
+                17,
+                19,
+                22,
+                25,
+                27
+            ]
+        }
+    ]
+}
